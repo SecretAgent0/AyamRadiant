@@ -1,0 +1,65 @@
+.nav a{
+    font-size: 16px;
+    color: #000;
+}
+
+.banner{
+    background-image: url("https://raw.githubusercontent.com/Rosyiii/FinalProject/main/img/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: #fff;
+}
+
+.banner h1{
+    font-size: 54px;
+}
+.home_p{
+    font-size: 20px;
+}
+
+#Home b{
+    font-size: 20px;
+}
+
+.layanan p{
+    font-size: 16px;
+}
+
+
+.Logo {
+    display: inline-block;
+    border-radius: 200%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: white;
+    background-color: #dc3545;
+
+}
+
+.crop-img{
+    object-fit: cover;
+}
+
+.logo2{
+    color: #dc3545;
+}
+
+.Logo i {
+    position: relative;
+    top: 35px;
+}
+
+#Tentang p{
+    font-size: 16px;
+    text-align: justify;
+    margin-right: 10%;
+}
+
+.tim img{
+    width: 250px;
+    border: 10px solid #cccccc;
+}
